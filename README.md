@@ -26,13 +26,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<br>
 <p align="center">
   <h4 align="left">Programming Languages</h4>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,js,ts" />
-  </a>
 </p>
-<br>
 <p align="center">
   <h4 align="left">Frontend Development</h4>
   <a href="https://skillicons.dev">
