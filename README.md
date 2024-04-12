@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ekam</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Urbanist&weight=600&size=24&pause=1000&color=F71313&background=0F0F0F00&center=true&vCenter=true&multiline=true&random=false&height=110&lines=%22Happiness+in+intelligent+people;is+the+rarest+thing+I+know.%22;+-Ernest+Hemingway" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Urbanist&weight=500&size=24&pause=1000&color=F71B16&center=true&vCenter=true&random=false&width=850&lines=%22Happiness+in+intelligent+people+is+the+rarest+thing+I+know%22+-Ernest+Hemingway" alt="Typing SVG" /></a>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ekam2552&theme=youtube-dark&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
