@@ -38,49 +38,42 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,css,html,sass,redux,webpack,babel,tailwind" />
   </a>
 </p>
-<br>
 <p align="center">
   <h4 align="left">Backend Development</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express" />
   </a>
 </p>
-<br>
 <p align="center">
   <h4 align="left">Mobile Development</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
 </p>
-<br>
 <p align="center">
   <h4 align="left">Mobile Development</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
   </a>
 </p>
-<br>
 <p align="center">
   <h4 align="left">Backend as a Service (BaaS)</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=firebase" />
   </a>
 </p>
-<br>
 <p align="center">
   <h4 align="left">Sofware</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postman" />
   </a>
 </p>
-<br>
 <p align="center">
   <h4 align="left">Static Site Generator</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs" />
   </a>
 </p>
-<br>
 <p align="center">
   <h4 align="left">Version Control</h4>
   <a href="https://skillicons.dev">
