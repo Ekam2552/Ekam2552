@@ -28,7 +28,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <h4 align="left">Programming Languages</h4>
-    <img style="pointer-events: none" src="https://skillicons.dev/icons?i=cpp,js,ts" />
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cpp,js,ts" />
+    </a>
 </p>
 <p align="center">
   <h4 align="left">Frontend Development</h4>
