@@ -24,12 +24,11 @@
 <a href="https://linkedin.com/in/ekam2552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekam2552" height="30" width="40" /></a>
 <a href="https://instagram.com/its.ekam.preet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.ekam.preet" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
 <br>
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <h4 align="left">Programming Languages</h4>
-    <img src="https://skillicons.dev/icons?i=cpp,js,ts" />
+    <img style="pointer-events: none" src="https://skillicons.dev/icons?i=cpp,js,ts" />
 </p>
 <p align="center">
   <h4 align="left">Frontend Development</h4>
