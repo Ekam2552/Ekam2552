@@ -20,10 +20,8 @@
 - ⚡ Fun fact **I love fashion, fitness and music.**
 
 <span align="left">Connect with me:  </span>
-<p align="left">
 <a href="https://linkedin.com/in/ekam2552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekam2552" height="30" width="40" /></a>
 <a href="https://instagram.com/its.ekam.preet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.ekam.preet" height="30" width="40" /></a>
-</p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
