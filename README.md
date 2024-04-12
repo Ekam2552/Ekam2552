@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ekam</h1>
 <h3 align="center">Fullstack Developer</h3>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ekam2552&theme=youtube-dark&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+
 - 🔭 I’m currently working on [RandoSphere](https://github.com/Ekam2552/Randosphere)
 
 - 🌱 I’m currently learning **Next.JS**
